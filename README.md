@@ -4,6 +4,7 @@
 - 📘 I'm a student
 - 📫 How to reach me, talk with me on my e-mail
 - 🇧🇷 I am from Brazil
+- My number is (42) 9 9990-7355
 - [Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - 
 <!---
